@@ -9,7 +9,7 @@ body{
 }
 .quote-box{
     background: #fff;
-    margin: 70px auto ;
+    margin: 50px auto ;
     width: 500px;
     text-align: center;
     padding: 7px 7px 60px;
@@ -29,6 +29,11 @@ body{
     height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
+    transition: all .9s;
+}
+.quote-box:hover #quote,
+.quote-box:focus #quote{
+  transform: scale(1.2);
 }
 .note{
     text-align: center;
@@ -52,6 +57,10 @@ body{
         width: 350px;
         margin: 70px auto;
     }
+    .quote-box:hover #quote,
+.quote-box:focus #quote{
+  transform: scale(1.1);
+}
 }
 @media screen and (max-width:360px){
     .quote-box{

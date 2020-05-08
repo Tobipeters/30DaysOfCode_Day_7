@@ -55,7 +55,7 @@ const imageChnager = () => {
             imageSrc.style.backgroundImage = 'url("images/saxido.jpg")';
             break;
         case 15:
-            imageSrc.style.backgroundImage = 'url("images/"sis.jpg)';
+            imageSrc.style.backgroundImage = 'url("images/sis.jpg")';
             break;
         case 16:
             imageSrc.style.backgroundImage = 'url("images/sydney.jpg")';

@@ -37,40 +37,40 @@ const imageChnager = () => {
             imageSrc.style.backgroundImage = 'url("images/me.jpg")';
             break;
         case 9:
-            imageSrc.style.backgroundImage = 'url("images/mum.jpg")'
+            imageSrc.style.backgroundImage = 'url("images/mum.jpg")';
             break;
         case 10:
-            imageSrc.style.backgroundImage = 'url("images/nath.jpg")'
+            imageSrc.style.backgroundImage = 'url("images/nath.jpg")';
             break;
         case 11:
-            imageSrc.style.backgroundImage = 'url("images/pool.jpg")'
+            imageSrc.style.backgroundImage = 'url("images/pool.jpg")';
             break;
         case 12:
-            imageSrc.style.backgroundImage = 'url("images/sam.png")'
+            imageSrc.style.backgroundImage = 'url("images/sam.png")';
             break;
         case 13:
-            imageSrc.style.backgroundImage = 'url("images/sams.jpeg")'
+            imageSrc.style.backgroundImage = 'url("images/sams.jpeg")';
             break;
         case 14:
             imageSrc.style.backgroundImage = 'url("images/saxido.jpg")';
             break;
         case 15:
-            imageSrc.style.backgroundImage = 'url("images/"sis.jpg)'
+            imageSrc.style.backgroundImage = 'url("images/"sis.jpg)';
             break;
         case 16:
-            imageSrc.style.backgroundImage = 'url("images/sydney.jpg")'
+            imageSrc.style.backgroundImage = 'url("images/sydney.jpg")';
             break;
         case 17:
-            imageSrc.style.backgroundImage = 'url("images/tijesu.jpg")'
+            imageSrc.style.backgroundImage = 'url("images/tijesu.jpg")';
             break;
         case 18:
-            imageSrc.style.backgroundImage = 'url("images/tosin.png")'
+            imageSrc.style.backgroundImage = 'url("images/tosin.png")';
             break;
         case 19:
-            imageSrc.style.backgroundImage = 'url("images/Unilag.JPG")'
+            imageSrc.style.backgroundImage = 'url("images/Unilag.JPG")';
             break;
         case 20:
-            imageSrc.style.backgroundImage = 'url("images/vic.jpg")'
+            imageSrc.style.backgroundImage = 'url("images/vic.jpg")';
             break;
 
     }

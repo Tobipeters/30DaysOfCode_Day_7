@@ -3,14 +3,14 @@ body{
 }
 .title{
     text-align: center;
-    margin: 120px auto 0;
+    margin: 30px auto 0;
     color: #313131;
     font-weight: 800;
 }
 .quote-box{
     background: #fff;
-    margin: 100px auto;
-    width: 314px;
+    margin: 70px auto ;
+    width: 500px;
     text-align: center;
     padding: 7px 7px 60px;
     line-height: 1.6;
@@ -26,11 +26,9 @@ body{
 }
 #quote{
     margin: 0;
-    height: 350px;
-    /* background: url('images/Bolu.JPG'); */
+    height: 400px;
     background-repeat: no-repeat;
     background-size: cover;
-    background-position:center:
 }
 .note{
     text-align: center;
@@ -46,11 +44,17 @@ body{
 #btn:hover{
     box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
 }
-@media screen and (max-width: 800px){
+@media screen and (max-width: 600px){
     #quote{
         height: 350px;
     }
     .quote-box{
+        width: 350px;
         margin: 70px auto;
+    }
+}
+@media screen and (max-width:360px){
+    .quote-box{
+        width:320px
     }
 }
